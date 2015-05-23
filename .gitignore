@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Custom
+rooms.json
+xmpp_jid_to_api_id_map.csv
+nohup.out
